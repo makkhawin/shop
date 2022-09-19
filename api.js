@@ -1,5 +1,5 @@
 //Url to Google Sheets
-//const url = 'https://docs.google.com/spreadsheets/d/[sheet ID]/gviz/tq?';
+//const url = 'https://docs.google.com/spreadsheets/d/10RQYt0HgYOlHuPriA2inzAfa_gH3HaZW-tlnuIkShtY/d/[sheet ID]/gviz/tq?';
 const url = 'https://docs.google.com/spreadsheets/d/1qqcewCVPu3hTQTlgLBHbPWKJShlVnEiKu4ZdHLctPvc/gviz/tq?';
 const productsContainer = document.querySelector('.products-grid');
     fetch(url)
