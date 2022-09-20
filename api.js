@@ -1,6 +1,6 @@
 //Url to Google Sheets
 //const url = 'https://docs.google.com/spreadsheets/d/10RQYt0HgYOlHuPriA2inzAfa_gH3HaZW-tlnuIkShtY/d/[sheet ID]/gviz/tq?';
-const url = 'https://docs.google.com/spreadsheets/d/10RQYt0HgYOlHuPriA2inzAfa_gH3HaZW-tlnuIkShtY/gviz/tq?';
+const url = 'https://docs.google.com/spreadsheets/d/1hmB8AsaUPsuhDuOPoegFK5zTj3ypjwoEiiS7ulg4zIk/gviz/tq?';
 const productsContainer = document.querySelector('.products-grid');
     fetch(url)
     .then(res => res.text())
